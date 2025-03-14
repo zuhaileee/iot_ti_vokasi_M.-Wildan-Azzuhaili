@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "relay",
+			"path": "C:/Users/Azuhaileee/Documents/PlatformIO/Projects/relay"
+		},
+		{
+			"name": "latihanled1",
+			"path": "C:/Users/Azuhaileee/Documents/PlatformIO/Projects/latihanled1"
+		},
+		{
+			"name": "latihanESP32SensorSuhuKelembapan",
+			"path": "."
+		},
+		{
+			"name": "relay_button_munggu3",
+			"path": "../relay_button_munggu3"
+		},
+		{
+			"name": "sensor_jarak",
+			"path": "../sensor_jarak"
+		}
+	],
+	"settings": {}
+}
