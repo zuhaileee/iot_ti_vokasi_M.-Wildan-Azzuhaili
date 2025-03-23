@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../sensor_jarak"
+		},
+		{
+			"name": "latihan_led1",
+			"path": "."
+		},
+		{
+			"name": "iot_internet",
+			"path": "../iot_internet"
+		}
+	],
+	"settings": {}
+}
